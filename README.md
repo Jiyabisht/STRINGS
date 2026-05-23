@@ -5,3 +5,4 @@
 4. Valid Word Abbreviation <mark>Two Pointers</mark> (Neetcode 250)
 5. Longest Common Prefix L-14
 6. FizzBuzz L-412
+7. Strobogrammatic number
